@@ -1,3 +1,10 @@
+```json
+{
+  "date": "2024.07.03 18:18",
+  "tags": ["Linux"],
+  "description":"linux中systemctl的基本用法"
+}
+```
 # Linux中systemctl的使用
 
 - 编写`.service`服务文件

@@ -1,3 +1,10 @@
+```json
+{
+  "date": "2024.07.03 18:00",
+  "tags": ["macOS"],
+  "description":"拿到了一台全新的mac电脑怎么办🤯🤯🤯"
+}
+```
 # 从0开始配置一台mac
 
 ### homebrew

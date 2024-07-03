@@ -1,3 +1,10 @@
+```json
+{
+  "date": "2024.07.03 18:05",
+  "tags": ["web"],
+  "description":"在蓝桥杯备赛期间整理了一份web开发笔记，包括css布局，js，jquery等等实用技术知识"
+}
+```
 # web笔记
 
 ## css

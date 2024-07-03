@@ -1,3 +1,10 @@
+```json
+{
+  "date": "2024.07.03 18:28",
+  "tags": ["nginx"],
+  "description":"nginx基础基础最基础的用法"
+}
+```
 # nginx基础配置
 
 - 安装

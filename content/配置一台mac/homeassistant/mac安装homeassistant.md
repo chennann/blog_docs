@@ -1,3 +1,10 @@
+```json
+{
+  "date": "2024.07.03 17:59",
+  "tags": ["hass"],
+  "description":"在macOS上安装homeassistant，通过docker和UTM虚拟机两种方式"
+}
+```
 # mac安装homeassistant
 
 ## 通过docker安装
