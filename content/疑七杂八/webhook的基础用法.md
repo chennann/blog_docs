@@ -10,7 +10,7 @@
 
 - 使用起来其实非常简单，按照这张图上的内容按要求填写就好
 
-<img src="./images/webhook-001.png" style="zoom: 40%;" />
+  ![webhook-001](./images/webhook-001.png)
 
 
 
