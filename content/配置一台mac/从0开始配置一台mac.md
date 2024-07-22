@@ -48,3 +48,25 @@ brew install clashx
 
 
 
+### 配置.zshrc
+
+需要对新电脑的终端做一些个性化的配置才用的顺手，比如代理配置，自定义短语指令等等
+
+在`用户根目录`下的`.zshrc`文件最后增加这几行内容：
+
+```bash
+#配置代理地址
+export http_proxy='http://localhost:7890'
+export https_proxy='http://localhost:7890'
+
+#配置git-log优雅显示
+alias git-log='git log --pretty=oneline --all --graph --abbrev-commit --decorate'
+
+#配置ll，匹配linux习惯
+alias ll='ls -al'
+```
+
+
+
+
+
